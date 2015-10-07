@@ -1,0 +1,1 @@
+<div class="alert-box flash-message-warning"><?php echo h($message); ?></div>

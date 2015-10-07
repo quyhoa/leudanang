@@ -1,0 +1,2213 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AdminsController.php:137;169;194;224;256;281
+msgid "Invalid admin"
+msgstr ""
+
+#: Controller/AdminsController.php:152;173;239;260
+msgid "The admin has been saved."
+msgstr ""
+
+#: Controller/AdminsController.php:155;176;242;263
+msgid "The admin could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AdminsController.php:198;285
+msgid "The admin has been deleted."
+msgstr ""
+
+#: Controller/AdminsController.php:200;287
+msgid "The admin could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:46;82;111
+msgid "Invalid block category"
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:63;88
+msgid "The block category has been saved."
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:66;91
+msgid "The block category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:115
+msgid "The block category has been deleted."
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:117
+msgid "The block category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:171
+msgid "Publish block's category is successfull"
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:174
+msgid "Publish block's category is unsuccessfull"
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:191
+msgid "Unpublish block's category is successfull"
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:194
+msgid "Unpublish block's category is unsuccessfull"
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:223
+msgid "Delete block category is successfull"
+msgstr ""
+
+#: Controller/BlockCategoriesController.php:226
+#: Controller/ProductCategoriesController.php:289
+#: Controller/ProductNewsController.php:109
+#: Controller/ProductSpecialsController.php:127
+msgid "Please select a category before"
+msgstr ""
+
+#: Controller/BlockContentsController.php:53;90;120
+msgid "Invalid block content"
+msgstr ""
+
+#: Controller/BlockContentsController.php:70;96
+msgid "The block content has been saved."
+msgstr ""
+
+#: Controller/BlockContentsController.php:73;99
+msgid "The block content could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BlockContentsController.php:77;106
+msgid "Nomal"
+msgstr ""
+
+#: Controller/BlockContentsController.php:77;106
+#: View/BlockCategories/view.ctp:78
+#: View/BlockContents/view.ctp:34
+#: View/ContentCategories/admin_view.ctp:73
+#: View/ContentCategories/view.ctp:73
+#: View/Contents/view.ctp:34
+#: View/Elements/product/form.ctp:57
+#: View/Elements/product/index.ctp:24
+#: View/Products/admin_index.ctp:136
+#: View/Products/admin_new.ctp:23
+#: View/Products/view.ctp:44
+msgid "Image"
+msgstr ""
+
+#: Controller/BlockContentsController.php:77;106
+#: View/BlockCategories/view.ctp:79
+#: View/BlockContents/view.ctp:39
+#: View/ContentCategories/admin_view.ctp:75
+#: View/ContentCategories/view.ctp:75
+#: View/Contents/view.ctp:44
+msgid "File"
+msgstr ""
+
+#: Controller/BlockContentsController.php:124
+msgid "The block content has been deleted."
+msgstr ""
+
+#: Controller/BlockContentsController.php:126
+msgid "The block content could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BlockContentsController.php:180
+msgid "Publish block's content is successfull"
+msgstr ""
+
+#: Controller/BlockContentsController.php:183
+msgid "Publish block's content is unsuccessfull"
+msgstr ""
+
+#: Controller/BlockContentsController.php:200
+msgid "Unpublish block's content is successfull"
+msgstr ""
+
+#: Controller/BlockContentsController.php:203
+msgid "Unpublish block's content is unsuccessfull"
+msgstr ""
+
+#: Controller/BlockContentsController.php:232
+msgid "Delete block content is successfull"
+msgstr ""
+
+#: Controller/BlockContentsController.php:235
+msgid "Please select a content before"
+msgstr ""
+
+#: Controller/ContentCategoriesController.php:37;69;94;124;156;181
+msgid "Invalid content category"
+msgstr ""
+
+#: Controller/ContentCategoriesController.php:52;73;139;160
+msgid "The content category has been saved."
+msgstr ""
+
+#: Controller/ContentCategoriesController.php:55;76;142;163
+msgid "The content category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContentCategoriesController.php:98;185
+msgid "The content category has been deleted."
+msgstr ""
+
+#: Controller/ContentCategoriesController.php:100;187
+msgid "The content category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ContentsController.php:37;71;98;128;162;189
+msgid "Invalid content"
+msgstr ""
+
+#: Controller/ContentsController.php:52;75;143;166
+msgid "The content has been saved."
+msgstr ""
+
+#: Controller/ContentsController.php:55;78;146;169
+msgid "The content could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ContentsController.php:102;193
+msgid "The content has been deleted."
+msgstr ""
+
+#: Controller/ContentsController.php:104;195
+msgid "The content could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:44;78;105
+msgid "Invalid news category"
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:61;84
+msgid "The news category has been saved."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:64;87
+msgid "The news category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:109
+msgid "The news category has been deleted."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:111
+msgid "The news category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:165
+msgid "Publish news category is successfull"
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:168
+msgid "Publish news category is unsuccessfull"
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:185
+msgid "Unpublish news category is successfull"
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:188
+msgid "Unpublish news category is unsuccessfull"
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:217
+msgid "Delete news category is successfull"
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:220
+msgid "Please select a news category before"
+msgstr ""
+
+#: Controller/NewsController.php:44;80;110
+msgid "Invalid news"
+msgstr ""
+
+#: Controller/NewsController.php:61;87
+msgid "The news has been saved."
+msgstr ""
+
+#: Controller/NewsController.php:64;90
+msgid "The news could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:114
+msgid "The news has been deleted."
+msgstr ""
+
+#: Controller/NewsController.php:116
+msgid "The news could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:170
+msgid "Publish news is successfull"
+msgstr ""
+
+#: Controller/NewsController.php:173
+msgid "Publish news is unsuccessfull"
+msgstr ""
+
+#: Controller/NewsController.php:190
+msgid "Unpublish news is successfull"
+msgstr ""
+
+#: Controller/NewsController.php:193
+msgid "Unpublish news is unsuccessfull"
+msgstr ""
+
+#: Controller/NewsController.php:222
+msgid "Delete news is successfull"
+msgstr ""
+
+#: Controller/NewsController.php:225
+msgid "Please select a news before"
+msgstr ""
+
+#: Controller/PageListsController.php:44;82;111
+msgid "Invalid page list"
+msgstr ""
+
+#: Controller/PageListsController.php:60;86
+msgid "The page list has been saved."
+msgstr ""
+
+#: Controller/PageListsController.php:63;89
+msgid "The page list could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PageListsController.php:115
+msgid "The page list has been deleted."
+msgstr ""
+
+#: Controller/PageListsController.php:117
+msgid "The page list could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PageListsController.php:171
+msgid "Publish page is successfull"
+msgstr ""
+
+#: Controller/PageListsController.php:174
+msgid "Publish page is unsuccessfull"
+msgstr ""
+
+#: Controller/PageListsController.php:191
+msgid "Unpublish page is successfull"
+msgstr ""
+
+#: Controller/PageListsController.php:194
+msgid "Unpublish page is unsuccessfull"
+msgstr ""
+
+#: Controller/PageListsController.php:223
+msgid "Delete page is successfull"
+msgstr ""
+
+#: Controller/PageListsController.php:226
+msgid "Please select a page before"
+msgstr ""
+
+#: Controller/PagesController.php:89
+msgid "Linh phu kien cao cap"
+msgstr ""
+
+#: Controller/PagesController.php:114;150
+msgid "Sản phẩm"
+msgstr ""
+
+#: Controller/PagesController.php:189
+msgid "Trang thông tin"
+msgstr ""
+
+#: Controller/PagesController.php:253
+msgid "Thông tin đặt hàng"
+msgstr ""
+
+#: Controller/PagesController.php:349
+msgid "Tìm kiếm sản phẩm"
+msgstr ""
+
+#: Controller/PagesController.php:378;401
+msgid "Tin tức"
+msgstr ""
+
+#: Controller/PagesController.php:424
+msgid "Liên hệ"
+msgstr ""
+
+#: Controller/PagesController.php:432
+msgid "Contact is sent"
+msgstr ""
+
+#: Controller/PagesController.php:435
+msgid "Contact isnot sent"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:71;135;138;142
+msgid "The product category has been saved."
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:74;83
+msgid "The product category has been fail."
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:78
+msgid "The product category has been existed."
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:105
+msgid "Invalid product category"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:147
+msgid "Name ko duoc rong"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:234
+msgid "Publish product's category is successfull"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:237
+msgid "Publish product's category is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:254
+msgid "Unpublish product's category is successfull"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:257
+msgid "Unpublish product's category is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductCategoriesController.php:286
+msgid "Delete product category is successfull"
+msgstr ""
+
+#: Controller/ProductNewsController.php:54;74
+msgid "Unpublish product new is successfull"
+msgstr ""
+
+#: Controller/ProductNewsController.php:57;77
+msgid "Unpublish product new is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductNewsController.php:106
+msgid "Delete new product is successfull"
+msgstr ""
+
+#: Controller/ProductSpecialsController.php:50
+msgid "Invalid product special"
+msgstr ""
+
+#: Controller/ProductSpecialsController.php:54
+msgid "The product special has been deleted."
+msgstr ""
+
+#: Controller/ProductSpecialsController.php:56
+msgid "The product special could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProductSpecialsController.php:72;92
+msgid "Unpublish hot product's category is successfull"
+msgstr ""
+
+#: Controller/ProductSpecialsController.php:75;95
+msgid "Unpublish hot product's category is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductSpecialsController.php:124
+msgid "Delete hot product is successfull"
+msgstr ""
+
+#: Controller/ProductsController.php:151
+msgid "The product has been saved."
+msgstr ""
+
+#: Controller/ProductsController.php:155;247
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:172;293
+msgid "Invalid product"
+msgstr ""
+
+#: Controller/ProductsController.php:244
+msgid "The product  has been saved."
+msgstr ""
+
+#: Controller/ProductsController.php:252
+msgid "Ban chua nhap nam hoac chua chon hinh anh chinh. Vui long kiem tra lai"
+msgstr ""
+
+#: Controller/ProductsController.php:310
+msgid "The product has been deleted."
+msgstr ""
+
+#: Controller/ProductsController.php:313
+msgid "The product has not been deleted."
+msgstr ""
+
+#: Controller/ProductsController.php:432
+msgid "Product is added to new product"
+msgstr ""
+
+#: Controller/ProductsController.php:435
+msgid "Product is not added to new product"
+msgstr ""
+
+#: Controller/ProductsController.php:439
+msgid "Product is added to new product before"
+msgstr ""
+
+#: Controller/ProductsController.php:461
+msgid "Product is added to hot product"
+msgstr ""
+
+#: Controller/ProductsController.php:464
+msgid "Product is not added to hot product"
+msgstr ""
+
+#: Controller/ProductsController.php:468
+msgid "Product is added to hot product before"
+msgstr ""
+
+#: Controller/ProductsController.php:498
+msgid "Delete product is successfull"
+msgstr ""
+
+#: Controller/ProductsController.php:501
+msgid "Please select a product before "
+msgstr ""
+
+#: Controller/ProductsController.php:539
+msgid "Add news product is successfull"
+msgstr ""
+
+#: Controller/ProductsController.php:542
+msgid "Add news product is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductsController.php:548
+msgid "Product is added in product news before"
+msgstr ""
+
+#: Controller/ProductsController.php:551;603
+msgid "Please select a product before"
+msgstr ""
+
+#: Controller/ProductsController.php:591
+msgid "Add hot product is successfull"
+msgstr ""
+
+#: Controller/ProductsController.php:594
+msgid "Add hot product is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductsController.php:600
+msgid "Product is added in product hot before"
+msgstr ""
+
+#: Controller/ProductsController.php:624
+msgid "Publish product is successfull"
+msgstr ""
+
+#: Controller/ProductsController.php:627
+msgid "Publish product is unsuccessfull"
+msgstr ""
+
+#: Controller/ProductsController.php:644
+msgid "Unpublish product is successfull"
+msgstr ""
+
+#: Controller/ProductsController.php:647
+msgid "Unpublish product is unsuccessfull"
+msgstr ""
+
+#: Controller/UsersController.php:43
+msgid "Email or Password is incorrect"
+msgstr ""
+
+#: View/Admins/add.ctp:4
+msgid "Add Admin"
+msgstr ""
+
+#: View/Admins/add.ctp:10
+#: View/Admins/edit.ctp:11
+#: View/ContentCategories/add.ctp:14
+#: View/ContentCategories/admin_add.ctp:14
+#: View/ContentCategories/admin_edit.ctp:15
+#: View/ContentCategories/edit.ctp:15
+#: View/Contents/add.ctp:18
+#: View/Contents/edit.ctp:19
+#: View/ProductNews/add.ctp:11
+#: View/ProductNews/edit.ctp:12
+#: View/ProductSpecials/add.ctp:11
+#: View/ProductSpecials/edit.ctp:12
+#: View/Products/add.ctp:21
+#: View/Products/edit.ctp:22
+#: View/Users/add.ctp:20
+#: View/Users/edit.ctp:21
+msgid "Submit"
+msgstr ""
+
+#: View/Admins/add.ctp:13
+#: View/Admins/edit.ctp:14
+#: View/Admins/index.ctp:11;46
+#: View/Admins/view.ctp:32
+#: View/BlockCategories/view.ctp:57;84
+#: View/BlockContents/view.ctp:67
+#: View/ContentCategories/add.ctp:17
+#: View/ContentCategories/admin_add.ctp:17
+#: View/ContentCategories/admin_edit.ctp:18
+#: View/ContentCategories/admin_index.ctp:15;54
+#: View/ContentCategories/admin_view.ctp:52;80
+#: View/ContentCategories/edit.ctp:18
+#: View/ContentCategories/index.ctp:15;54
+#: View/ContentCategories/view.ctp:52;80
+#: View/Contents/add.ctp:21
+#: View/Contents/edit.ctp:22
+#: View/Contents/index.ctp:19;64
+#: View/Contents/view.ctp:72
+#: View/ProductNews/add.ctp:14
+#: View/ProductNews/edit.ctp:15
+#: View/ProductNews/index.ctp:12;50
+#: View/ProductNews/view.ctp:37
+#: View/ProductSpecials/add.ctp:14
+#: View/ProductSpecials/edit.ctp:15
+#: View/ProductSpecials/index.ctp:12;50
+#: View/ProductSpecials/view.ctp:37
+#: View/Products/add.ctp:24
+#: View/Products/admin_index.ctp:142
+#: View/Products/edit.ctp:25
+#: View/Products/view.ctp:87;114;151;188
+#: View/Users/add.ctp:23
+#: View/Users/edit.ctp:24
+#: View/Users/index.ctp:21;66
+#: View/Users/view.ctp:82;102
+msgid "Actions"
+msgstr ""
+
+#: View/Admins/add.ctp:16
+#: View/Admins/edit.ctp:18
+#: View/Admins/view.ctp:36
+msgid "List Admins"
+msgstr ""
+
+#: View/Admins/admin_login.ctp:44
+msgid "Login"
+msgstr ""
+
+#: View/Admins/edit.ctp:4
+#: View/Admins/view.ctp:34
+msgid "Edit Admin"
+msgstr ""
+
+#: View/Admins/edit.ctp:17
+#: View/Admins/index.ctp:25
+#: View/BlockCategories/view.ctp:103
+#: View/ContentCategories/admin_edit.ctp:21
+#: View/ContentCategories/admin_index.ctp:33
+#: View/ContentCategories/admin_view.ctp:100
+#: View/ContentCategories/edit.ctp:21
+#: View/ContentCategories/index.ctp:33
+#: View/ContentCategories/view.ctp:100
+#: View/Contents/edit.ctp:25
+#: View/Contents/index.ctp:43
+#: View/ProductNews/edit.ctp:18
+#: View/ProductNews/index.ctp:29
+#: View/ProductSpecials/edit.ctp:18
+#: View/ProductSpecials/index.ctp:29
+#: View/Products/edit.ctp:28
+#: View/Products/view.ctp:127;164;201
+#: View/Users/edit.ctp:27
+#: View/Users/index.ctp:45
+#: View/Users/view.ctp:114
+msgid "Delete"
+msgstr ""
+
+#: View/Admins/edit.ctp:17
+#: View/Admins/index.ctp:25
+#: View/Admins/view.ctp:35
+#: View/BlockCategories/admin_index.ctp:88
+#: View/BlockCategories/view.ctp:60;103
+#: View/BlockContents/admin_index.ctp:88
+#: View/BlockContents/view.ctp:70
+#: View/ContentCategories/admin_edit.ctp:21
+#: View/ContentCategories/admin_index.ctp:33
+#: View/ContentCategories/admin_view.ctp:55;100
+#: View/ContentCategories/edit.ctp:21
+#: View/ContentCategories/index.ctp:33
+#: View/ContentCategories/view.ctp:55;100
+#: View/Contents/edit.ctp:25
+#: View/Contents/index.ctp:43
+#: View/Contents/view.ctp:75
+#: View/Elements/product/index.ctp:101
+#: View/News/admin_index.ctp:97
+#: View/NewsCategories/admin_index.ctp:83
+#: View/PageLists/admin_index.ctp:99
+#: View/ProductCategories/admin_index.ctp:108
+#: View/ProductNews/edit.ctp:18
+#: View/ProductNews/index.ctp:29
+#: View/ProductNews/view.ctp:40
+#: View/ProductSpecials/edit.ctp:18
+#: View/ProductSpecials/index.ctp:29
+#: View/ProductSpecials/view.ctp:40
+#: View/Products/admin_index.ctp:239
+#: View/Products/admin_new.ctp:82
+#: View/Products/edit.ctp:28
+#: View/Products/view.ctp:90;127;164;201
+#: View/Users/edit.ctp:27
+#: View/Users/index.ctp:45
+#: View/Users/view.ctp:85;114
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Admins/index.ctp:2
+msgid "Admins"
+msgstr ""
+
+#: View/Admins/index.ctp:23
+#: View/BlockCategories/view.ctp:101
+#: View/ContentCategories/admin_index.ctp:31
+#: View/ContentCategories/admin_view.ctp:98
+#: View/ContentCategories/index.ctp:31
+#: View/ContentCategories/view.ctp:98
+#: View/Contents/index.ctp:41
+#: View/ProductNews/index.ctp:27
+#: View/ProductSpecials/index.ctp:27
+#: View/Products/view.ctp:125;162;199
+#: View/Users/index.ctp:43
+#: View/Users/view.ctp:112
+msgid "View"
+msgstr ""
+
+#: View/Admins/index.ctp:24
+#: View/BlockCategories/view.ctp:102
+#: View/ContentCategories/admin_index.ctp:32
+#: View/ContentCategories/admin_view.ctp:99
+#: View/ContentCategories/index.ctp:32
+#: View/ContentCategories/view.ctp:99
+#: View/Contents/index.ctp:42
+#: View/Elements/product/form.ctp:162
+#: View/ProductNews/index.ctp:28
+#: View/ProductSpecials/index.ctp:28
+#: View/Products/view.ctp:126;163;200
+#: View/Users/index.ctp:44
+#: View/Users/view.ctp:113
+msgid "Edit"
+msgstr ""
+
+#: View/Admins/index.ctp:34
+#: View/ContentCategories/admin_index.ctp:42
+#: View/ContentCategories/index.ctp:42
+#: View/Contents/index.ctp:52
+#: View/ProductNews/index.ctp:38
+#: View/ProductSpecials/index.ctp:38
+#: View/Users/index.ctp:54
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Admins/index.ctp:39
+#: View/ContentCategories/admin_index.ctp:47
+#: View/ContentCategories/index.ctp:47
+#: View/Contents/index.ctp:57
+#: View/ProductNews/index.ctp:43
+#: View/ProductSpecials/index.ctp:43
+#: View/Themed/Metro/Elements/paginator.ctp:16
+#: View/Users/index.ctp:59
+msgid "previous"
+msgstr ""
+
+#: View/Admins/index.ctp:41
+#: View/ContentCategories/admin_index.ctp:49
+#: View/ContentCategories/index.ctp:49
+#: View/Contents/index.ctp:59
+#: View/ProductNews/index.ctp:45
+#: View/ProductSpecials/index.ctp:45
+#: View/Themed/Metro/Elements/paginator.ctp:24
+#: View/Users/index.ctp:61
+msgid "next"
+msgstr ""
+
+#: View/Admins/index.ctp:48
+#: View/Admins/view.ctp:37
+msgid "New Admin"
+msgstr ""
+
+#: View/Admins/view.ctp:2
+#: View/Themed/Metro/Elements/left_menu.ctp:34
+msgid "Admin"
+msgstr ""
+
+#: View/Admins/view.ctp:4
+#: View/BlockCategories/view.ctp:4;72
+#: View/BlockContents/view.ctp:4
+#: View/ContentCategories/admin_view.ctp:4;67
+#: View/ContentCategories/view.ctp:4;67
+#: View/Contents/view.ctp:4
+#: View/ProductNews/view.ctp:4
+#: View/ProductSpecials/view.ctp:4
+#: View/Products/view.ctp:4;108;145;182
+#: View/Users/view.ctp:4;97
+msgid "Id"
+msgstr ""
+
+#: View/Admins/view.ctp:9
+#: View/Users/view.ctp:39
+msgid "Email"
+msgstr ""
+
+#: View/Admins/view.ctp:14
+#: View/Users/view.ctp:54
+msgid "Password"
+msgstr ""
+
+#: View/Admins/view.ctp:19
+#: View/BlockCategories/view.ctp:44;82
+#: View/BlockContents/view.ctp:54
+#: View/ContentCategories/admin_view.ctp:39;78
+#: View/ContentCategories/view.ctp:39;78
+#: View/Contents/view.ctp:59
+#: View/ProductNews/view.ctp:24
+#: View/ProductSpecials/view.ctp:24
+#: View/Products/view.ctp:74;149;186
+#: View/Users/view.ctp:69;99
+msgid "Created"
+msgstr ""
+
+#: View/Admins/view.ctp:24
+#: View/BlockCategories/view.ctp:49;83
+#: View/BlockContents/view.ctp:59
+#: View/ContentCategories/admin_view.ctp:44;79
+#: View/ContentCategories/view.ctp:44;79
+#: View/Contents/view.ctp:64
+#: View/ProductNews/view.ctp:29
+#: View/ProductSpecials/view.ctp:29
+#: View/Products/view.ctp:79;150;187
+#: View/Users/view.ctp:74;100
+msgid "Updated"
+msgstr ""
+
+#: View/Admins/view.ctp:35
+msgid "Delete Admin"
+msgstr ""
+
+#: View/BlockCategories/admin_add.ctp:4
+#: View/BlockCategories/admin_edit.ctp:4
+#: View/BlockCategories/admin_index.ctp:4
+#: View/BlockContents/admin_add.ctp:4
+#: View/BlockContents/admin_edit.ctp:4
+#: View/BlockContents/admin_index.ctp:4
+#: View/Elements/front/cart.ctp:5
+#: View/News/admin_add.ctp:4
+#: View/News/admin_edit.ctp:4
+#: View/News/admin_index.ctp:4
+#: View/News/admin_view.ctp:4
+#: View/NewsCategories/admin_add.ctp:4
+#: View/NewsCategories/admin_edit.ctp:4
+#: View/NewsCategories/admin_index.ctp:4
+#: View/PageLists/admin_add.ctp:4
+#: View/PageLists/admin_edit.ctp:4
+#: View/PageLists/admin_index.ctp:4
+#: View/PageLists/admin_view.ctp:4
+#: View/Pages/contact.ctp:5
+#: View/Pages/lisnews.ctp:5
+#: View/Pages/lists.ctp:5
+#: View/ProductCategories/admin_add.ctp:4
+#: View/ProductCategories/admin_edit.ctp:4
+#: View/ProductCategories/admin_index.ctp:4
+#: View/ProductNews/admin_index.ctp:4
+#: View/ProductSpecials/admin_index.ctp:4
+#: View/Products/admin_add.ctp:4
+#: View/Products/admin_edit.ctp:4
+#: View/Themed/Front/Layouts/default.ctp:121
+msgid "Home"
+msgstr ""
+
+#: View/BlockCategories/admin_add.ctp:8
+#: View/BlockCategories/admin_edit.ctp:8
+#: View/BlockCategories/admin_index.ctp:7;13
+msgid "Block categories"
+msgstr ""
+
+#: View/BlockCategories/admin_add.ctp:11
+msgid "Add block's category"
+msgstr ""
+
+#: View/BlockCategories/admin_edit.ctp:11
+msgid "Edit block's category"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:22
+msgid "block_cate_code"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:23
+msgid "block_cate_name"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:24
+#: View/BlockContents/admin_index.ctp:24
+msgid "descrition"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:25
+#: View/BlockContents/admin_index.ctp:25
+#: View/PageLists/admin_index.ctp:26
+#: View/ProductCategories/admin_index.ctp:43
+msgid "position"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:26
+msgid "block_cate_parent"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:27
+#: View/BlockContents/admin_index.ctp:27
+#: View/News/admin_index.ctp:27
+#: View/NewsCategories/admin_index.ctp:25
+#: View/PageLists/admin_index.ctp:28
+#: View/ProductCategories/admin_index.ctp:45
+#: View/ProductNews/admin_index.ctp:24
+#: View/ProductSpecials/admin_index.ctp:24
+msgid "created"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:28
+#: View/BlockContents/admin_index.ctp:28
+#: View/News/admin_index.ctp:29
+#: View/NewsCategories/admin_index.ctp:26
+#: View/PageLists/admin_index.ctp:30
+#: View/ProductCategories/admin_index.ctp:46
+#: View/ProductNews/admin_index.ctp:25
+#: View/ProductSpecials/admin_index.ctp:25
+msgid "publish"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:29
+#: View/BlockContents/admin_index.ctp:29
+#: View/News/admin_index.ctp:30
+#: View/NewsCategories/admin_index.ctp:27
+#: View/PageLists/admin_index.ctp:31
+#: View/ProductCategories/admin_index.ctp:47
+msgid "actions"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:52;61
+#: View/BlockCategories/view.ctp:34
+#: View/BlockContents/admin_index.ctp:52;61
+#: View/Elements/block_cate/form.ctp:62
+#: View/Elements/block_content/form.ctp:104
+#: View/Elements/news/form.ctp:61
+#: View/Elements/news_category/form.ctp:28
+#: View/Elements/page/form.ctp:74
+#: View/Elements/product_category/form.ctp:62
+#: View/News/admin_index.ctp:61;70
+#: View/NewsCategories/admin_index.ctp:47;56
+#: View/PageLists/admin_index.ctp:63;72
+#: View/ProductCategories/admin_index.ctp:70;79
+#: View/ProductNews/admin_index.ctp:45
+#: View/ProductSpecials/admin_index.ctp:45
+#: View/Products/admin_index.ctp:179
+msgid "Publish"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:58
+#: View/BlockContents/admin_index.ctp:58
+#: View/News/admin_index.ctp:67
+#: View/NewsCategories/admin_index.ctp:53
+#: View/PageLists/admin_index.ctp:69
+#: View/ProductCategories/admin_index.ctp:76
+#: View/ProductNews/admin_index.ctp:51
+#: View/ProductSpecials/admin_index.ctp:51
+#: View/Products/admin_index.ctp:185
+msgid "Are you sure you want to unpulish # %s?"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:68
+#: View/BlockContents/admin_index.ctp:68
+#: View/News/admin_index.ctp:77
+#: View/NewsCategories/admin_index.ctp:63
+#: View/PageLists/admin_index.ctp:79
+#: View/ProductCategories/admin_index.ctp:86
+#: View/ProductNews/admin_index.ctp:61
+#: View/ProductSpecials/admin_index.ctp:61
+#: View/Products/admin_index.ctp:195
+msgid "Are you sure you want to publish # %s?"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:100
+#: View/NewsCategories/admin_index.ctp:95
+msgid "Add cate category"
+msgstr ""
+
+#: View/BlockCategories/admin_index.ctp:103
+#: View/BlockContents/admin_index.ctp:103
+#: View/News/admin_index.ctp:112
+#: View/NewsCategories/admin_index.ctp:98
+#: View/PageLists/admin_index.ctp:114
+#: View/ProductCategories/admin_index.ctp:124
+#: View/ProductNews/admin_index.ctp:73
+#: View/ProductSpecials/admin_index.ctp:73
+msgid "Delete selected"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:2
+#: View/BlockContents/view.ctp:29
+msgid "Block Category"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:9;73
+#: View/BlockContents/view.ctp:9
+#: View/ContentCategories/admin_view.ctp:9;68
+#: View/ContentCategories/view.ctp:9;68
+#: View/Contents/view.ctp:9
+#: View/Products/view.ctp:9
+msgid "Code"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:14;74
+#: View/BlockContents/view.ctp:14
+#: View/ContentCategories/admin_view.ctp:14;69
+#: View/ContentCategories/view.ctp:14;69
+#: View/Contents/view.ctp:14
+#: View/Elements/product/form.ctp:21
+#: View/Elements/product/index.ctp:23
+#: View/Products/admin_index.ctp:135
+#: View/Products/admin_new.ctp:22
+#: View/Products/view.ctp:19
+#: View/Users/view.ctp:9
+msgid "Name"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:19
+#: View/ContentCategories/admin_view.ctp:19
+#: View/ContentCategories/view.ctp:19
+#: View/Products/view.ctp:24
+msgid "Parent"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:24;75
+#: View/BlockContents/view.ctp:19
+#: View/ContentCategories/admin_view.ctp:24
+#: View/ContentCategories/view.ctp:24
+#: View/Elements/product/form.ctp:47
+msgid "Description"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:29;80
+#: View/BlockContents/view.ctp:44
+#: View/Elements/block_cate/form.ctp:49
+#: View/Elements/block_content/form.ctp:91
+#: View/Elements/page/form.ctp:61
+#: View/Elements/product_category/form.ctp:49
+msgid "Position"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:39;81
+#: View/BlockContents/view.ctp:49
+#: View/ContentCategories/admin_view.ctp:34;77
+#: View/ContentCategories/view.ctp:34;77
+#: View/Contents/view.ctp:54
+#: View/Elements/product/index.ctp:28
+#: View/ProductNews/view.ctp:19
+#: View/ProductSpecials/view.ctp:19
+#: View/Products/admin_index.ctp:140
+#: View/Products/admin_new.ctp:27
+#: View/Products/view.ctp:64;113;148;185
+#: View/Users/view.ctp:64;101
+msgid "Status"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:59
+msgid "Edit Block Category"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:60
+msgid "Delete Block Category"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:61
+#: View/BlockContents/view.ctp:73
+msgid "List Block Categories"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:62
+#: View/BlockContents/view.ctp:74
+msgid "New Block Category"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:63
+#: View/BlockContents/view.ctp:71
+msgid "List Block Contents"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:64;112
+#: View/BlockContents/view.ctp:72
+msgid "New Block Content"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:68
+msgid "Related Block Contents"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:76
+#: View/BlockContents/view.ctp:24
+#: View/Contents/view.ctp:2
+msgid "Content"
+msgstr ""
+
+#: View/BlockCategories/view.ctp:77
+msgid "Block Category Id"
+msgstr ""
+
+#: View/BlockContents/admin_add.ctp:8
+#: View/BlockContents/admin_edit.ctp:8
+#: View/BlockContents/admin_index.ctp:7
+#: View/Themed/Metro/Elements/left_menu.ctp:21
+msgid "Block content"
+msgstr ""
+
+#: View/BlockContents/admin_add.ctp:11
+msgid "Add block's content"
+msgstr ""
+
+#: View/BlockContents/admin_edit.ctp:11
+msgid "Edit block's content"
+msgstr ""
+
+#: View/BlockContents/admin_index.ctp:13
+msgid "Block contentgories"
+msgstr ""
+
+#: View/BlockContents/admin_index.ctp:22
+msgid "block_content_code"
+msgstr ""
+
+#: View/BlockContents/admin_index.ctp:23
+msgid "block_content_name"
+msgstr ""
+
+#: View/BlockContents/admin_index.ctp:26
+msgid "block_cate"
+msgstr ""
+
+#: View/BlockContents/admin_index.ctp:100
+msgid "Add content contentgory"
+msgstr ""
+
+#: View/BlockContents/view.ctp:2
+msgid "Block Content"
+msgstr ""
+
+#: View/BlockContents/view.ctp:69
+msgid "Edit Block Content"
+msgstr ""
+
+#: View/BlockContents/view.ctp:70
+msgid "Delete Block Content"
+msgstr ""
+
+#: View/ContentCategories/add.ctp:4
+msgid "Add Content Category"
+msgstr ""
+
+#: View/ContentCategories/add.ctp:20
+#: View/ContentCategories/admin_add.ctp:20
+#: View/ContentCategories/admin_edit.ctp:22
+#: View/ContentCategories/admin_view.ctp:56
+#: View/ContentCategories/edit.ctp:22
+#: View/ContentCategories/view.ctp:56
+#: View/Contents/add.ctp:25
+#: View/Contents/edit.ctp:27
+#: View/Contents/index.ctp:67
+#: View/Contents/view.ctp:78
+msgid "List Content Categories"
+msgstr ""
+
+#: View/ContentCategories/add.ctp:21
+#: View/ContentCategories/admin_add.ctp:21
+#: View/ContentCategories/admin_edit.ctp:23
+#: View/ContentCategories/admin_index.ctp:57
+#: View/ContentCategories/admin_view.ctp:58
+#: View/ContentCategories/edit.ctp:23
+#: View/ContentCategories/index.ctp:57
+#: View/ContentCategories/view.ctp:58
+#: View/Contents/add.ctp:24
+#: View/Contents/edit.ctp:26
+#: View/Contents/view.ctp:76
+msgid "List Contents"
+msgstr ""
+
+#: View/ContentCategories/add.ctp:22
+#: View/ContentCategories/admin_add.ctp:22
+#: View/ContentCategories/admin_edit.ctp:24
+#: View/ContentCategories/admin_index.ctp:58
+#: View/ContentCategories/admin_view.ctp:59;109
+#: View/ContentCategories/edit.ctp:24
+#: View/ContentCategories/index.ctp:58
+#: View/ContentCategories/view.ctp:59;109
+#: View/Contents/index.ctp:66
+#: View/Contents/view.ctp:77
+msgid "New Content"
+msgstr ""
+
+#: View/ContentCategories/admin_add.ctp:4
+msgid "Admin Add Content Category"
+msgstr ""
+
+#: View/ContentCategories/admin_edit.ctp:4
+msgid "Admin Edit Content Category"
+msgstr ""
+
+#: View/ContentCategories/admin_index.ctp:2
+#: View/ContentCategories/index.ctp:2
+msgid "Content Categories"
+msgstr ""
+
+#: View/ContentCategories/admin_index.ctp:56
+#: View/ContentCategories/admin_view.ctp:57
+#: View/ContentCategories/index.ctp:56
+#: View/ContentCategories/view.ctp:57
+#: View/Contents/add.ctp:26
+#: View/Contents/edit.ctp:28
+#: View/Contents/index.ctp:68
+#: View/Contents/view.ctp:79
+msgid "New Content Category"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:2
+#: View/ContentCategories/view.ctp:2
+#: View/Contents/view.ctp:29
+msgid "Content Category"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:29;76
+#: View/ContentCategories/view.ctp:29;76
+#: View/Contents/view.ctp:49
+#: View/Elements/product/form.ctp:126
+#: View/ProductNews/view.ctp:14
+#: View/ProductSpecials/view.ctp:14
+#: View/Products/view.ctp:69;147;184
+msgid "Sort"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:54
+#: View/ContentCategories/edit.ctp:4
+#: View/ContentCategories/view.ctp:54
+msgid "Edit Content Category"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:55
+#: View/ContentCategories/view.ctp:55
+msgid "Delete Content Category"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:63
+#: View/ContentCategories/view.ctp:63
+msgid "Related Contents"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:70
+#: View/ContentCategories/view.ctp:70
+#: View/Contents/view.ctp:19
+#: View/Products/view.ctp:34
+msgid "Detail Short"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:71
+#: View/ContentCategories/view.ctp:71
+#: View/Contents/view.ctp:24
+#: View/Elements/product/form.ctp:114
+#: View/Elements/product/index.ctp:27
+#: View/Products/admin_index.ctp:139
+#: View/Products/admin_new.ctp:26
+#: View/Products/view.ctp:39
+msgid "Detail"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:72
+#: View/ContentCategories/view.ctp:72
+msgid "Content Category Id"
+msgstr ""
+
+#: View/ContentCategories/admin_view.ctp:74
+#: View/ContentCategories/view.ctp:74
+#: View/Contents/view.ctp:39
+#: View/Products/view.ctp:49
+msgid "Image Large"
+msgstr ""
+
+#: View/Contents/add.ctp:4
+msgid "Add Content"
+msgstr ""
+
+#: View/Contents/edit.ctp:4
+#: View/Contents/view.ctp:74
+msgid "Edit Content"
+msgstr ""
+
+#: View/Contents/index.ctp:2
+msgid "Contents"
+msgstr ""
+
+#: View/Contents/view.ctp:75
+msgid "Delete Content"
+msgstr ""
+
+#: View/Elements/comfirmDelete.ctp:6
+#: View/Elements/popupDetail.ctp:6
+msgid "Thông tin chi tiết"
+msgstr ""
+
+#: View/Elements/detailProduct.ctp:5
+#: View/Pages/detail.ctp:5
+msgid "Trang chủ"
+msgstr ""
+
+#: View/Elements/popupDetail.ctp:12
+msgid "Cancel"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:15
+#: View/Elements/news_category/form.ctp:15
+#: View/Elements/product_category/form.ctp:15
+#: View/ProductCategories/admin_index.ctp:41
+msgid "category_name"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:27
+#: View/Elements/product_category/form.ctp:27
+msgid "parent_category"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:33
+#: View/Elements/page/form.ctp:35
+#: View/Elements/product_category/form.ctp:33
+msgid "Please select a parent category"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:38
+#: View/Elements/product_category/form.ctp:38
+msgid "description_category"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:78
+#: View/Elements/block_content/form.ctp:120
+#: View/Elements/news/form.ctp:77
+#: View/Elements/news_category/form.ctp:44
+#: View/Elements/page/form.ctp:90
+#: View/Elements/product/form.ctp:150
+#: View/Elements/product_category/form.ctp:78
+msgid "Required information"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:82
+#: View/Elements/block_content/form.ctp:124
+#: View/Elements/front/sing_up.ctp:151
+#: View/Elements/news/form.ctp:81
+#: View/Elements/news_category/form.ctp:48
+#: View/Elements/page/form.ctp:94
+#: View/Elements/product/form.ctp:154
+#: View/Elements/product_category/form.ctp:82
+#: View/News/admin_view.ctp:28
+#: View/PageLists/admin_view.ctp:28
+msgid "Back"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:91
+#: View/Elements/news_category/form.ctp:57
+#: View/Elements/product_category/form.ctp:91
+msgid "Edit_category"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:96
+#: View/Elements/news_category/form.ctp:62
+#: View/Elements/product_category/form.ctp:96
+msgid "Add_category"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:134
+msgid "Please input name block category"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:135
+msgid "Block category is exist"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:139
+#: View/Elements/block_content/form.ctp:191
+#: View/Elements/page/form.ctp:155
+#: View/Elements/product/form.ctp:217
+#: View/Elements/product_category/form.ctp:139
+msgid "Please input postion"
+msgstr ""
+
+#: View/Elements/block_cate/form.ctp:140
+#: View/Elements/block_content/form.ctp:192
+#: View/Elements/page/form.ctp:156
+#: View/Elements/product_category/form.ctp:140
+msgid "Please input number"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:17
+msgid "Block_content_name"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:29
+#: View/Themed/Metro/Elements/left_menu.ctp:22
+msgid "Block category"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:34;201
+msgid "Please select block category"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:39
+msgid "Block type"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:45
+msgid "Please select block type"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:50
+#: View/Elements/news/form.ctp:39
+#: View/News/admin_index.ctp:25
+msgid "description"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:60
+#: View/Elements/news/form.ctp:49
+#: View/Elements/page/form.ctp:50
+msgid "content"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:71
+msgid "content_image"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:81
+msgid "content_file"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:133
+#: View/Elements/news/form.ctp:90
+#: View/Elements/page/form.ctp:103
+msgid "Edit_page"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:138
+#: View/Elements/news/form.ctp:95
+#: View/Elements/page/form.ctp:108
+msgid "Add_page"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:186
+#: View/Elements/page/form.ctp:150
+msgid "Please input page name"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:187
+msgid "Block content is exist"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:196
+#: View/Elements/news/form.ctp:143
+#: View/Elements/page/form.ctp:160
+msgid "Please input content"
+msgstr ""
+
+#: View/Elements/block_content/form.ctp:206
+msgid "Please select block content type"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:5
+msgid "cart"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:14
+msgid "Giá"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:15
+msgid "Số lượng"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:16;49
+msgid "Cập nhật"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:17
+msgid "Xóa"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:18
+msgid "Tổng tiền"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:57;62
+#: View/Elements/front/listProduct.ctp:9
+#: View/Pages/index.ctp:27;46
+msgid " VNĐ"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:61
+msgid "Tổng Tiền"
+msgstr ""
+
+#: View/Elements/front/cart.ctp:75
+msgid "cart empty"
+msgstr ""
+
+#: View/Elements/front/login.ctp:42
+msgid "<i class=\"fa fa-sign-in\"></i>Đăng Kí"
+msgstr ""
+
+#: View/Elements/front/login.ctp:72
+msgid "Please input email"
+msgstr ""
+
+#: View/Elements/front/login.ctp:73
+#: View/Pages/contact.ctp:122
+msgid "Email is incorrect format"
+msgstr ""
+
+#: View/Elements/front/login.ctp:78
+msgid "Please input password"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:152
+msgid "Regist"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:204
+msgid "Please input your name"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:209
+msgid "Please select your gender"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:213
+msgid "Please input your phone"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:217
+msgid "Please input your address"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:222
+msgid "Please select a city"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:226
+msgid "Please input your email"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:227
+msgid "Your email is incorrect format"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:231
+msgid "Please input your passowrd"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:232
+msgid "Please input password less 4 character"
+msgstr ""
+
+#: View/Elements/front/sing_up.ctp:233
+msgid "Please input your password not more 32 character "
+msgstr ""
+
+#: View/Elements/news/form.ctp:17
+#: View/News/admin_index.ctp:24
+msgid "news_title"
+msgstr ""
+
+#: View/Elements/news/form.ctp:29
+msgid "news_cateogry"
+msgstr ""
+
+#: View/Elements/news/form.ctp:34;148
+msgid "Please select a news category"
+msgstr ""
+
+#: View/Elements/news/form.ctp:137
+msgid "Please input news title"
+msgstr ""
+
+#: View/Elements/news/form.ctp:138
+msgid "News is exist"
+msgstr ""
+
+#: View/Elements/news_category/form.ctp:96
+msgid "Please input name news category"
+msgstr ""
+
+#: View/Elements/news_category/form.ctp:97
+msgid "news category is exist"
+msgstr ""
+
+#: View/Elements/page/form.ctp:17
+#: View/PageLists/admin_index.ctp:24
+msgid "page_name"
+msgstr ""
+
+#: View/Elements/page/form.ctp:29
+msgid "page_parent"
+msgstr ""
+
+#: View/Elements/page/form.ctp:40
+msgid "url"
+msgstr ""
+
+#: View/Elements/page/form.ctp:151
+msgid "Page is exist"
+msgstr ""
+
+#: View/Elements/product/form.ctp:32
+msgid "Category"
+msgstr ""
+
+#: View/Elements/product/form.ctp:38
+#: View/Elements/product/index.ctp:26
+#: View/Pages/detail.ctp:22
+#: View/Pages/lists.ctp:21
+#: View/Products/admin_index.ctp:138
+#: View/Products/admin_new.ctp:25
+#: View/Products/view.ctp:54;112
+msgid "Price"
+msgstr ""
+
+#: View/Elements/product/form.ctp:103
+msgid "Add image"
+msgstr ""
+
+#: View/Elements/product/form.ctp:135
+msgid "Public"
+msgstr ""
+
+#: View/Elements/product/form.ctp:167
+msgid "Add"
+msgstr ""
+
+#: View/Elements/product/form.ctp:212
+#: View/Elements/product_category/form.ctp:134
+msgid "Please input name product category"
+msgstr ""
+
+#: View/Elements/product/form.ctp:213
+#: View/Elements/product_category/form.ctp:135
+msgid "Product category is exist"
+msgstr ""
+
+#: View/Elements/product/form.ctp:220
+msgid "Please input price"
+msgstr ""
+
+#: View/Elements/product/form.ctp:223
+msgid "Please input image"
+msgstr ""
+
+#: View/Elements/product/index.ctp:5
+#: View/Products/admin_add.ctp:8
+#: View/Products/admin_edit.ctp:8
+#: View/Products/admin_new.ctp:4
+msgid "Danh mục sản phẩm"
+msgstr ""
+
+#: View/Elements/product/index.ctp:22
+#: View/Products/admin_index.ctp:134
+#: View/Products/admin_new.ctp:21
+msgid "ID"
+msgstr ""
+
+#: View/Elements/product/index.ctp:25
+#: View/Products/admin_index.ctp:137
+#: View/Products/admin_new.ctp:24
+msgid "Categories"
+msgstr ""
+
+#: View/Elements/product/index.ctp:29
+#: View/Products/admin_index.ctp:141
+msgid "add type"
+msgstr ""
+
+#: View/Elements/product/index.ctp:68
+#: View/Products/admin_index.ctp:203
+msgid "addNew"
+msgstr ""
+
+#: View/Elements/product/index.ctp:75
+#: View/Products/admin_index.ctp:212
+msgid "addHot"
+msgstr ""
+
+#: View/Elements/product/index.ctp:114
+#: View/Products/admin_index.ctp:252
+#: View/Products/admin_new.ctp:95
+msgid "Add product"
+msgstr ""
+
+#: View/Elements/product/index.ctp:118
+#: View/Products/admin_index.ctp:256
+#: View/Products/admin_new.ctp:99
+msgid "Add new product"
+msgstr ""
+
+#: View/Elements/product/index.ctp:121
+#: View/Products/admin_index.ctp:259
+#: View/Products/admin_new.ctp:102
+msgid "Add hot product"
+msgstr ""
+
+#: View/Elements/product/index.ctp:124
+#: View/Products/admin_index.ctp:262
+#: View/Products/admin_new.ctp:105
+msgid "Delete choose"
+msgstr ""
+
+#: View/News/admin_add.ctp:8
+#: View/News/admin_edit.ctp:8
+#: View/News/admin_index.ctp:7;13
+#: View/News/admin_view.ctp:8
+#: View/Themed/Metro/Elements/left_menu.ctp:31
+msgid "News list"
+msgstr ""
+
+#: View/News/admin_add.ctp:11
+#: View/News/admin_index.ctp:109
+msgid "Add news"
+msgstr ""
+
+#: View/News/admin_edit.ctp:11
+msgid "Edit news"
+msgstr ""
+
+#: View/News/admin_index.ctp:23
+msgid "news_code"
+msgstr ""
+
+#: View/News/admin_index.ctp:26
+msgid "news_category"
+msgstr ""
+
+#: View/News/admin_index.ctp:28;50
+#: View/PageLists/admin_index.ctp:29;52
+msgid "view"
+msgstr ""
+
+#: View/News/admin_view.ctp:11
+msgid "view news"
+msgstr ""
+
+#: View/News/admin_view.ctp:23
+msgid "News no content"
+msgstr ""
+
+#: View/NewsCategories/admin_add.ctp:8
+#: View/NewsCategories/admin_edit.ctp:8
+#: View/Themed/Metro/Elements/left_menu.ctp:30
+msgid "News category"
+msgstr ""
+
+#: View/NewsCategories/admin_add.ctp:11
+msgid "Add news category"
+msgstr ""
+
+#: View/NewsCategories/admin_edit.ctp:11
+msgid "Edit news category"
+msgstr ""
+
+#: View/NewsCategories/admin_index.ctp:7;13
+msgid "News categories"
+msgstr ""
+
+#: View/NewsCategories/admin_index.ctp:22
+msgid "news_cate_code"
+msgstr ""
+
+#: View/NewsCategories/admin_index.ctp:23
+msgid "news_cate_name"
+msgstr ""
+
+#: View/PageLists/admin_add.ctp:8
+#: View/PageLists/admin_edit.ctp:8
+#: View/PageLists/admin_index.ctp:13
+#: View/PageLists/admin_view.ctp:8
+msgid "Page list"
+msgstr ""
+
+#: View/PageLists/admin_add.ctp:11
+#: View/PageLists/admin_index.ctp:111
+msgid "Add page"
+msgstr ""
+
+#: View/PageLists/admin_edit.ctp:11
+msgid "Edit page"
+msgstr ""
+
+#: View/PageLists/admin_index.ctp:7
+msgid "Pages list"
+msgstr ""
+
+#: View/PageLists/admin_index.ctp:23
+msgid "page_code"
+msgstr ""
+
+#: View/PageLists/admin_index.ctp:25
+msgid "page_type"
+msgstr ""
+
+#: View/PageLists/admin_index.ctp:27
+#: View/ProductCategories/admin_index.ctp:44
+msgid "category parent"
+msgstr ""
+
+#: View/PageLists/admin_index.ctp:48
+msgid "page_static"
+msgstr ""
+
+#: View/PageLists/admin_index.ctp:48
+msgid "page_dynamic"
+msgstr ""
+
+#: View/PageLists/admin_view.ctp:11
+msgid "view page"
+msgstr ""
+
+#: View/PageLists/admin_view.ctp:23
+msgid "Page no content"
+msgstr ""
+
+#: View/Pages/contact.ctp:108;113;117;121;126;130
+msgid "Please input fields"
+msgstr ""
+
+#: View/Pages/detail.ctp:28
+msgid "Number"
+msgstr ""
+
+#: View/Pages/detail.ctp:37
+msgid "Thông tin sản phẩm"
+msgstr ""
+
+#: View/Pages/detail.ctp:68
+msgid "Mua Hàng"
+msgstr ""
+
+#: View/Pages/info.ctp:14
+msgid "Sorry! Page not found."
+msgstr ""
+
+#: View/Pages/lisnews.ctp:5
+#: View/Themed/Metro/Elements/left_menu.ctp:29
+msgid "News"
+msgstr ""
+
+#: View/Pages/lisnews.ctp:24
+msgid "No news"
+msgstr ""
+
+#: View/Pages/lists.ctp:5
+#: View/Products/admin_index.ctp:79
+#: View/Products/view.ctp:14
+msgid "Product Category"
+msgstr ""
+
+#: View/Pages/lists.ctp:14
+msgid "Asc"
+msgstr ""
+
+#: View/Pages/lists.ctp:14
+msgid "Desc"
+msgstr ""
+
+#: View/Pages/lists.ctp:21
+msgid "Product Name"
+msgstr ""
+
+#: View/Pages/lists.ctp:40
+msgid "VNĐ"
+msgstr ""
+
+#: View/Pages/search.ctp:18
+msgid "Kết quả tìm kiếm"
+msgstr ""
+
+#: View/ProductCategories/admin_add.ctp:8
+#: View/ProductCategories/admin_edit.ctp:8
+#: View/ProductCategories/admin_index.ctp:7;13
+#: View/ProductNews/admin_index.ctp:7;13
+#: View/ProductSpecials/admin_index.ctp:7;13
+msgid "Product categories"
+msgstr ""
+
+#: View/ProductCategories/admin_add.ctp:11
+msgid "Add product's category"
+msgstr ""
+
+#: View/ProductCategories/admin_edit.ctp:11
+msgid "Edit product's category"
+msgstr ""
+
+#: View/ProductCategories/admin_index.ctp:40
+msgid "category_code"
+msgstr ""
+
+#: View/ProductCategories/admin_index.ctp:42
+msgid "cate_descrition"
+msgstr ""
+
+#: View/ProductCategories/admin_index.ctp:120
+msgid "Add product category"
+msgstr ""
+
+#: View/ProductNews/add.ctp:4
+msgid "Add Product News"
+msgstr ""
+
+#: View/ProductNews/add.ctp:17
+#: View/ProductNews/edit.ctp:19
+#: View/ProductNews/view.ctp:41
+#: View/Products/add.ctp:32
+#: View/Products/edit.ctp:34
+#: View/Products/view.ctp:97
+msgid "List Product News"
+msgstr ""
+
+#: View/ProductNews/add.ctp:18
+#: View/ProductNews/edit.ctp:20
+#: View/ProductNews/index.ctp:53
+#: View/ProductNews/view.ctp:43
+#: View/ProductSpecials/add.ctp:18
+#: View/ProductSpecials/edit.ctp:20
+#: View/ProductSpecials/index.ctp:53
+#: View/ProductSpecials/view.ctp:43
+#: View/Products/add.ctp:27
+#: View/Products/edit.ctp:29
+#: View/Products/view.ctp:91
+msgid "List Products"
+msgstr ""
+
+#: View/ProductNews/add.ctp:19
+#: View/ProductNews/edit.ctp:21
+#: View/ProductNews/index.ctp:54
+#: View/ProductNews/view.ctp:44
+#: View/ProductSpecials/add.ctp:19
+#: View/ProductSpecials/edit.ctp:21
+#: View/ProductSpecials/index.ctp:54
+#: View/ProductSpecials/view.ctp:44
+#: View/Products/view.ctp:92
+msgid "New Product"
+msgstr ""
+
+#: View/ProductNews/admin_index.ctp:22
+#: View/ProductSpecials/admin_index.ctp:22
+msgid "Name product"
+msgstr ""
+
+#: View/ProductNews/admin_index.ctp:23
+#: View/ProductSpecials/admin_index.ctp:23
+msgid "sort"
+msgstr ""
+
+#: View/ProductNews/admin_index.ctp:54
+#: View/ProductSpecials/admin_index.ctp:54
+msgid "Unblish"
+msgstr ""
+
+#: View/ProductNews/edit.ctp:4
+#: View/ProductNews/view.ctp:39
+msgid "Edit Product News"
+msgstr ""
+
+#: View/ProductNews/index.ctp:2
+#: View/ProductNews/view.ctp:2
+msgid "Product News"
+msgstr ""
+
+#: View/ProductNews/index.ctp:52
+#: View/ProductNews/view.ctp:42
+#: View/Products/add.ctp:33
+#: View/Products/edit.ctp:35
+#: View/Products/view.ctp:98;173
+msgid "New Product News"
+msgstr ""
+
+#: View/ProductNews/view.ctp:9
+#: View/ProductSpecials/view.ctp:9
+#: View/Products/view.ctp:2
+#: View/Themed/Front/Layouts/default.ctp:127
+#: View/Themed/Metro/Elements/left_menu.ctp:5
+msgid "Product"
+msgstr ""
+
+#: View/ProductNews/view.ctp:40
+msgid "Delete Product News"
+msgstr ""
+
+#: View/ProductSpecials/add.ctp:4
+msgid "Add Product Special"
+msgstr ""
+
+#: View/ProductSpecials/add.ctp:17
+#: View/ProductSpecials/edit.ctp:19
+#: View/ProductSpecials/view.ctp:41
+#: View/Products/add.ctp:34
+#: View/Products/edit.ctp:36
+#: View/Products/view.ctp:99
+msgid "List Product Specials"
+msgstr ""
+
+#: View/ProductSpecials/edit.ctp:4
+#: View/ProductSpecials/view.ctp:39
+msgid "Edit Product Special"
+msgstr ""
+
+#: View/ProductSpecials/index.ctp:2
+msgid "Product Specials"
+msgstr ""
+
+#: View/ProductSpecials/index.ctp:52
+#: View/ProductSpecials/view.ctp:42
+#: View/Products/add.ctp:35
+#: View/Products/edit.ctp:37
+#: View/Products/view.ctp:100;210
+msgid "New Product Special"
+msgstr ""
+
+#: View/ProductSpecials/view.ctp:2
+msgid "Product Special"
+msgstr ""
+
+#: View/ProductSpecials/view.ctp:40
+msgid "Delete Product Special"
+msgstr ""
+
+#: View/Products/add.ctp:4
+msgid "Add Product"
+msgstr ""
+
+#: View/Products/add.ctp:28
+#: View/Products/edit.ctp:30
+#: View/Products/view.ctp:93
+msgid "List Product Categories"
+msgstr ""
+
+#: View/Products/add.ctp:29
+#: View/Products/edit.ctp:31
+#: View/Products/view.ctp:94
+msgid "New Product Category"
+msgstr ""
+
+#: View/Products/add.ctp:30
+#: View/Products/edit.ctp:32
+#: View/Products/view.ctp:95
+msgid "List Order Details"
+msgstr ""
+
+#: View/Products/add.ctp:31
+#: View/Products/edit.ctp:33
+#: View/Products/view.ctp:96;136
+msgid "New Order Detail"
+msgstr ""
+
+#: View/Products/admin_add.ctp:11
+#: View/Products/admin_edit.ctp:11
+msgid "Thêm danh mục"
+msgstr ""
+
+#: View/Products/admin_index.ctp:188
+msgid "Unpublish"
+msgstr ""
+
+#: View/Products/edit.ctp:4
+#: View/Products/view.ctp:89
+msgid "Edit Product"
+msgstr ""
+
+#: View/Products/view.ctp:29
+msgid "Subject"
+msgstr ""
+
+#: View/Products/view.ctp:59
+msgid "Lang Id"
+msgstr ""
+
+#: View/Products/view.ctp:90
+msgid "Delete Product"
+msgstr ""
+
+#: View/Products/view.ctp:104
+msgid "Related Order Details"
+msgstr ""
+
+#: View/Products/view.ctp:109;146;183
+msgid "Product Id"
+msgstr ""
+
+#: View/Products/view.ctp:110
+msgid "Order Id"
+msgstr ""
+
+#: View/Products/view.ctp:111
+msgid "Quanlity"
+msgstr ""
+
+#: View/Products/view.ctp:141
+msgid "Related Product News"
+msgstr ""
+
+#: View/Products/view.ctp:178
+msgid "Related Product Specials"
+msgstr ""
+
+#: View/Themed/Front/Layouts/default.ctp:39
+msgid "Tài khoản"
+msgstr ""
+
+#: View/Themed/Front/Layouts/default.ctp:79;206
+msgid "Tin Tức"
+msgstr ""
+
+#: View/Themed/Front/Layouts/default.ctp:124
+msgid "Cart"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:10
+msgid "Category Product"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:15
+msgid "Products list"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:18
+msgid "Hot Product"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:23
+msgid "BlockContents"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:26
+msgid "Pages"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:27
+msgid "List page"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:33
+msgid "Member list"
+msgstr ""
+
+#: View/Themed/Metro/Elements/left_menu.ctp:35
+msgid "Member"
+msgstr ""
+
+#: View/Users/add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: View/Users/add.ctp:26
+#: View/Users/edit.ctp:28
+#: View/Users/view.ctp:86
+msgid "List Users"
+msgstr ""
+
+#: View/Users/add.ctp:27
+#: View/Users/edit.ctp:29
+#: View/Users/index.ctp:69
+#: View/Users/view.ctp:88
+msgid "List Orders"
+msgstr ""
+
+#: View/Users/add.ctp:28
+#: View/Users/edit.ctp:30
+#: View/Users/index.ctp:70
+#: View/Users/view.ctp:89;123
+msgid "New Order"
+msgstr ""
+
+#: View/Users/edit.ctp:4
+#: View/Users/view.ctp:84
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: View/Users/index.ctp:68
+#: View/Users/view.ctp:87
+msgid "New User"
+msgstr ""
+
+#: View/Users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: View/Users/view.ctp:14
+msgid "Gender"
+msgstr ""
+
+#: View/Users/view.ctp:19
+msgid "Address"
+msgstr ""
+
+#: View/Users/view.ctp:24
+msgid "City"
+msgstr ""
+
+#: View/Users/view.ctp:29
+msgid "Tel"
+msgstr ""
+
+#: View/Users/view.ctp:34
+msgid "Fax"
+msgstr ""
+
+#: View/Users/view.ctp:44
+msgid "Website"
+msgstr ""
+
+#: View/Users/view.ctp:49
+msgid "User Name"
+msgstr ""
+
+#: View/Users/view.ctp:59
+msgid "Type Regist"
+msgstr ""
+
+#: View/Users/view.ctp:85
+msgid "Delete User"
+msgstr ""
+
+#: View/Users/view.ctp:93
+msgid "Related Orders"
+msgstr ""
+
+#: View/Users/view.ctp:98
+msgid "User Id"
+msgstr ""
+
